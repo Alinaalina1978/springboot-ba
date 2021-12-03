@@ -2,7 +2,7 @@
 Project QA Alina Ard.
 
 
-Aim of the project is to develop an application spring boot that will allow to a company of health care to automatically register patient.
+Aim of the project is to develop an application spring boot that will allow to a company of health care to automatically register employee. The client demand for a database with different functions
 
 Project scope
 
