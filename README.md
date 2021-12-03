@@ -123,8 +123,10 @@ https://alina78.atlassian.net/jira/software/projects/TPAA/boards/5
 
 
 
+Risk assesment of employee aplication:
 
 
+![image](https://user-images.githubusercontent.com/61894273/144613064-2e120f1d-aa7f-4326-a581-63044ca79234.png)
 
 
 
